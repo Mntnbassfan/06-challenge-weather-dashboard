@@ -1,2 +1,6 @@
-document.getElementById("searchbutton").addEventListener("click");
-var cityName = console.log(cityChoice.value);
+document
+  .getElementById("searchButton")
+  .addEventListener("click", function (event) {
+    var userInput = document.getElementById("cityChoice").value;
+    console.log(cityChoice);
+  });
