@@ -21,3 +21,15 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
+
+## Project URL
+
+https://github.com/Mntnbassfan/05-challenge-work-day-scheduler
+
+## Deployed Website URL
+
+https://mntnbassfan.github.io/05-challenge-work-day-scheduler/
+
+## Screenshot of deployed app
+
+<img src="assets\weather dashboard 2022-09-30 130350.png" alt="screenshot of deployed application">
