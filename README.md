@@ -28,7 +28,7 @@ https://github.com/Mntnbassfan/06-challenge-weather-dashboard
 
 ## Deployed Website URL
 
-https://mntnbassfan.github.io/05-challenge-work-day-scheduler/
+https://mntnbassfan.github.io/06-challenge-weather-dashboard/
 
 ## Screenshot of deployed app
 
