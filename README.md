@@ -24,7 +24,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## Project URL
 
-https://github.com/Mntnbassfan/05-challenge-work-day-scheduler
+https://github.com/Mntnbassfan/06-challenge-weather-dashboard
 
 ## Deployed Website URL
 
