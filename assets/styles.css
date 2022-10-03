@@ -1,7 +1,9 @@
 .results {
-  border: solid 10px black;
+  position: absolute;
+  border: solid 5px black;
   display: flex;
   flex-direction: column;
-  right: 30px;
+  padding: 10px;
+  left: 350px;
   top: 30px;
 }
