@@ -40,7 +40,7 @@ function getApi(cityChoice) {
           // display current weather
           var cityIcon = document.getElementById("weatherIcon");
           var icon = document.createElement("img");
-          icon.src = `http://openweathermap.org/img/wn/${currentWeather.weather[0].icon}@2x.png`;
+          icon.src = `https://openweathermap.org/img/wn/${currentWeather.weather[0].icon}@2x.png`;
           cityIcon.appendChild(icon);
 
           //  display current temperature
