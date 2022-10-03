@@ -1,5 +1,5 @@
 .results {
-  border: 10 px solid black;
+  border: solid 10px black;
   display: flex;
   flex-direction: column;
   right: 30px;
