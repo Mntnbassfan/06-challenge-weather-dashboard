@@ -32,4 +32,4 @@ https://mntnbassfan.github.io/06-challenge-weather-dashboard/
 
 ## Screenshot of deployed app
 
-<img src="assets\weather dashboard 2022-09-30 130350.png" alt="screenshot of deployed application">
+<img src="assets\06 weather dashboard 2022-10-03 160401.png" alt="screenshot of deployed application">
